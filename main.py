@@ -1,3 +1,4 @@
+# Extract the colors of an image using 'colorgram' library
 # import colorgram
 #
 # # Extract 10 colors from an image
